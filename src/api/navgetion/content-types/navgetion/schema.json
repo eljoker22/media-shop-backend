@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navgetions",
+  "info": {
+    "singularName": "navgetion",
+    "pluralName": "navgetions",
+    "displayName": "navgetion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "text"
+    }
+  }
+}
